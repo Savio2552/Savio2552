@@ -1,6 +1,6 @@
 ### Olá! Sou Sávio Martins 👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho como front-end
 - 🌱 Estudando flutter
 - 📫 Contate-me no email: savio.martinso@outlook.com
  <div>
