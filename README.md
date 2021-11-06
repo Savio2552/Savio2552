@@ -1,6 +1,6 @@
 ### Olá! Sou Sávio Martins 👋
 
-- 🌱 Estudando flutter
+
 - 📫 Contate-me no email: savio.martinso@outlook.com
  <div>
   <a href="https://github.com/Savio2552">
