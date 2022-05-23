@@ -2,7 +2,7 @@
 
 
 - 📫 Contate-me no email: savio.martinso@outlook.com
-- <a href="https://wa.link/3g6vud"></a>
+- <p>Clique <a href="https://wa.link/3g6vud">aqui</a> para entrar em contato</p>
  <div>
   <a href="https://github.com/Savio2552">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Savio2552&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
